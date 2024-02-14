@@ -53,9 +53,9 @@ if (isset($_SESSION["user_id"])) {
     <div class="iets">
       <div class="div-links">
         <div class="sidebar">
-          <a href="#"><p>Home</p></a>
-          <a href="Forum.html"><p>Forums</p></a>
-          <a href="NAV-HTML.html"><p>Games</p></a>
+          <a href="index.php"><p>Home</p></a>
+          <a href="Forum.php"><p>Forums</p></a>
+          <a href="NAV-HTML.php"><p>Games</p></a>
         </div>
       </div>
       <!-- hier komt de hamburger menu voor de mobile versie van de website-->
