@@ -72,6 +72,13 @@ if (isset($_SESSION["user_id"])) {
             Zo'n tevreden kat! 😺❤️ #KatLeven #Ontspanning"
           </p>
         </div>
+        <div class="commentaar"> 
+          <ul>
+          <li>👍Like</li>
+            <li>🎇Share</li>
+            <li>💬Comment</li>
+          </ul>
+        </div>
 
         <div class="balkje2 balkbreedte balkgeenafbeelding">
           <p>
@@ -80,6 +87,13 @@ if (isset($_SESSION["user_id"])) {
             can mine, build, and survive. A game that connects generations.
             #Minecraft #GamingFun"
           </p>
+        </div>
+        <div class="commentaar"> 
+          <ul>
+          <li>👍Like</li>
+            <li>🎇Share</li>
+            <li>💬Comment</li>
+          </ul>
         </div>
 
         <div class="balkje3 balkbreedte balkafbeelding">
@@ -90,6 +104,13 @@ if (isset($_SESSION["user_id"])) {
           <img src="img/oostenrijk.jpg" />
         </div>
       </div>
+      <div class="commentaar"> 
+          <ul>
+          <li>👍Like</li>
+            <li>🎇Share</li>
+            <li>💬Comment</li>
+          </ul>
+        </div>
 
       <div class="form2">
         <div class="kat">
