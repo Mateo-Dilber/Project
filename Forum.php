@@ -99,7 +99,7 @@ if (isset($_SESSION["user_id"])) {
         <div class="balkje3 balkbreedte balkafbeelding">
           <p>
             Op een zomercamping in Oostenrijk maakte ik een bijzondere vriend:
-            een nieuwsgierige alpaca. #cute #vacation #alpaca
+            een nieuwsgierige alpaaca. #cute #vacation #alpaca
           </p>
           <img src="img/oostenrijk.jpg" />
         </div>
